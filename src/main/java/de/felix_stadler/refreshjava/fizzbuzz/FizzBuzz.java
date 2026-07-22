@@ -1,6 +1,6 @@
 package de.felix_stadler.refreshjava.fizzbuzz;
 
-public class fizzbuzz {
+public class FizzBuzz {
     static void main() {
         for (int i = 0; i <= 100;  i++){
             System.out.print("\n" + i);
